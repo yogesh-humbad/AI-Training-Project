@@ -1,0 +1,7 @@
+timestamp,question,model,latency_ms,prompt_tokens,completion_tokens,total_tokens,estimated_cost_usd,intent,priority,confidence_score
+2025-12-19T11:47:48.786843,What is my bank balance,openai/gpt-oss-20b:groq,2281.81,76,79,155,0.0,information,low,0.752025-12-19T11:52:35.699383,What is my bank balance,openai/gpt-oss-20b:groq,1165.69,76,57,133,0.0,information,low,0.75
+2025-12-19T11:53:50.639669,What is 1 + 5,openai/gpt-oss-20b:groq,5449.9,78,35,113,0.0,information,low,0.75
+2025-12-19T11:54:40.911708,What is '1' + 5 in javascript,openai/gpt-oss-20b:groq,1402.5,81,187,268,0.0,information,low,0.75
+2025-12-19T11:55:12.146051,How to learn genAI,openai/gpt-oss-20b:groq,4644.5,76,2545,2621,0.0,support,medium,0.9
+2025-12-19T11:57:36.359088,Add my all contanst in .env file,openai/gpt-oss-20b:groq,3075.64,80,1159,1239,0.0,support,medium,0.9
+2025-12-19T12:01:35.049397,Add my all contanst in .env file,openai/gpt-oss-20b:groq,2886.95,80,752,832,0.0,support,medium,0.9
